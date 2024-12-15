@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ASEAN</string>
+
+
+    <string name="flags_name">Nama Negara</string>
+    <string name="description">Deskripsi</string>
+    <string name="ibukota">Ibu Kota</string>
+    <string name="tanggal">Tanggal Bergabung</string>
+    <string-array name="data_ibukota">
+        <item>Bangkok</item>
+        <item>Jakarta</item>
+        <item>Kuala Lumpur</item>
+        <item>Singapura</item>
+        <item>Manila</item>
+        <item>Bandar Seri Begawan</item>
+        <item>Hanoi</item>
+        <item>Vientiane</item>
+        <item>Nay Pyi Taw</item>
+        <item>Phnom Penh</item>
+    </string-array>
+    <string-array name="data_tanggal_bergabung">
+        <item>8 Agustus 1967</item>
+        <item>8 Agustus 1967</item>
+        <item>8 Agustus 1967</item>
+        <item>8 Agustus 1967</item>
+        <item>8 Agustus 1967</item>
+        <item>7 Januari 1984</item>
+        <item>28 Juli 1995</item>
+        <item>23 Juli 1997</item>
+        <item>23 Juli 1997</item>
+        <item>30 April 1999</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Thailand</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Filipina</item>
+        <item>Brunei Darussalam</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Myanmar</item>
+        <item>Kamboja</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Thailand adalah salah satu negara pendiri ASEAN yang memegang peranan strategis dalam menciptakan kerjasama regional. Negara ini berusaha untuk mempromosikan perdamaian dan stabilitas melalui dialog dan kolaborasi. Thailand juga menjadi tuan rumah berbagai pertemuan ASEAN dan berkontribusi dalam banyak inisiatif keamanan dan ekonomi.</item>
+        <item>Indonesia adalah salah satu pendiri ASEAN, yang berdiri pada 8 Agustus 1967, bersamaan dengan Malaysia, Filipina, Singapura, dan Thailand. Negara ini memiliki visi untuk menciptakan stabilitas dan keamanan di kawasan yang saat itu dilanda konflik politik dan ketegangan. Indonesia memegang peranan penting dalam diplomasi regional dan berkomitmen untuk mendorong kerjasama ekonomi dan sosial antara negara-negara anggota.</item>
+        <item>Malaysia juga merupakan salah satu pendiri ASEAN. Sejak pembentukannya, Malaysia berfokus pada pengembangan kerjasama ekonomi dan keamanan di kawasan. Malaysia berperan dalam berbagai inisiatif, seperti Masyarakat Ekonomi ASEAN (AEC), untuk mempromosikan integrasi ekonomi antarnegara anggota. Keanggotaan Malaysia di ASEAN mencerminkan komitmennya terhadap stabilitas politik dan pertumbuhan ekonomi regional.</item>
+        <item>Singapura, yang juga merupakan pendiri ASEAN, telah menjadikan keanggotaan dalam organisasi ini sebagai bagian dari strategi untuk meningkatkan posisi ekonominya di kawasan. Negara ini dikenal karena kebijakan ekonominya yang terbuka dan inovatif, serta kemampuannya untuk menjadi pusat perdagangan dan investasi di Asia Tenggara. Singapura berperan aktif dalam inisiatif kerjasama multilateral di ASEAN.</item>
+        <item>Filipina, sebagai pendiri ASEAN, berpartisipasi aktif dalam pertemuan-pertemuan awal untuk membangun kerjasama regional. Negara ini berusaha memperkuat hubungan diplomatik dengan negara-negara tetangga dan mempromosikan stabilitas di Asia Tenggara. Selain itu, Filipina berfokus pada isu-isu seperti hak asasi manusia dan perlindungan lingkungan dalam kerjasama ASEAN.</item>
+        <item>Brunei Darussalam bergabung dengan ASEAN pada 7 Januari 1984. Keanggotaan ini membantu Brunei memperkuat posisinya di kawasan dan memberikan akses ke pasar regional. Negara ini memiliki fokus pada pengembangan sosial dan ekonomi, serta berkomitmen untuk mendukung upaya ASEAN dalam meningkatkan kesejahteraan masyarakat.</item>
+        <item>Vietnam bergabung dengan ASEAN pada 28 Juli 1995 setelah melalui berbagai perubahan politik dan ekonomi. Keanggotaan ini menjadi langkah strategis bagi Vietnam untuk membuka diri terhadap dunia internasional dan mempercepat pertumbuhan ekonominya. Vietnam aktif dalam berbagai forum ASEAN dan berusaha untuk memperkuat kerjasama dalam bidang perdagangan dan investasi.</item>
+        <item>Laos menjadi anggota ASEAN pada 23 Juli 1997. Negara ini melihat keanggotaan ASEAN sebagai kesempatan untuk meningkatkan pembangunan dan modernisasi ekonominya. Laos aktif terlibat dalam proyek-proyek pembangunan infrastruktur dan kerjasama di bidang pendidikan dan kesehatan.</item>
+        <item>Myanmar bergabung dengan ASEAN pada 23 Juli 1997. Keanggotaan ini diharapkan dapat membantu Myanmar dalam mencapai dukungan internasional untuk pembangunan ekonominya dan melakukan reformasi politik. Meskipun ada tantangan terkait situasi politik dalam negeri, Myanmar tetap berusaha untuk berkontribusi pada kerjasama regional.</item>
+        <item>Kamboja menjadi anggota ASEAN pada 30 April 1999 setelah melalui periode konflik internal yang berkepanjangan. Keanggotaan ini memberikan peluang bagi Kamboja untuk menarik investasi asing dan meningkatkan hubungan dengan negara-negara tetangga. Kamboja berfokus pada pengembangan infrastruktur dan promosi pariwisata sebagai bagian dari agenda pembangunan nasional.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/thailand</item>
+        <item>@drawable/indonesia</item>
+        <item>@drawable/malaysia</item>
+        <item>@drawable/singapura</item>
+        <item>@drawable/filipina</item>
+        <item>@drawable/brunei</item>
+        <item>@drawable/vietnam</item>
+        <item>@drawable/laos</item>
+        <item>@drawable/myanmar</item>
+        <item>@drawable/kamboja</item>
+    </integer-array>
+</resources>
